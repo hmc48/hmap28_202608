@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_28_指定療養通所介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "MEIN　HAUS　デイ【指定療養通所介護】神戸市須磨区大手町6丁目2-11", "url": "https://www.kaigokensaku.mhlw.go.jp/28/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2870701592-00&ServiceCd=&Type=search", "url2": "https：//meinhaus1001.com" }, "geometry": { "type": "Point", "coordinates": [ 135.1293971, 34.6590518 ] } },
+{ "type": "Feature", "properties": { "内容": "ナーシングデイうぃずゆー【指定療養通所介護】兵庫県西宮市樋之池町20-27", "url": "https://www.kaigokensaku.mhlw.go.jp/28/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2870905045-00&ServiceCd=&Type=search", "url2": "madokakaiwai.okoshi-yasu.net" }, "geometry": { "type": "Point", "coordinates": [ 135.317748448934935, 34.752520273783745 ] } },
+{ "type": "Feature", "properties": { "内容": "療養型デイサービスHIKARI【指定療養通所介護】兵庫県伊丹市山田5丁目3-3スギ薬局2階", "url": "https://www.kaigokensaku.mhlw.go.jp/28/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2893300372-00&ServiceCd=&Type=search", "url2": "care-village@necess.jp" }, "geometry": { "type": "Point", "coordinates": [ 135.384393199999977, 34.772241 ] } },
+{ "type": "Feature", "properties": { "内容": "療養通所介護事業所　ひだまり畑【指定療養通所介護】加古郡稲美町加古5141番地", "url": "https://www.kaigokensaku.mhlw.go.jp/28/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2872800400-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.9075904, 34.7607835 ] } }
+]
+}
